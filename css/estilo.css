@@ -1,3 +1,31 @@
-p{
-   color: green; 
+body{
+    background-image: url(../img/toothless-how-to-train-your-dragon-artwork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    background-color: rgb(rgb(19, 3, 58));
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.logo img{
+max-width: 100%;
+width: auto;
+}
+.caixa-imagem{
+    text-align: left;
+    margin-top: 1%;
+}
+figure{
+    text-align: center;
+    display:inline-block
+}
+figure img{
+    display: block;
+    margin: 0 auto;
+
+    max-width: 100%;
+    height: auto;
 }
