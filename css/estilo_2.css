@@ -87,6 +87,11 @@ figure img{
     height: auto;
 }
 
+figcaption{
+    background-color: #555;
+    font-size: 20px;
+}
+
 /* #menu ul { 
     padding:0px;
     margin:0px;

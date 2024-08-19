@@ -86,7 +86,9 @@ figure img{
     max-width: 100%;
     height: auto;
 }
-
+figcaption{
+    background-color: #555;
+}
 /* #menu ul { 
     padding:0px;
     margin:0px;
